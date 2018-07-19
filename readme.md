@@ -1,6 +1,6 @@
 # Projeto Teste AutoGestor
 
-##Configurações iniciais
+## Configurações iniciais
 
 Há duas formas de se rodar o projeto, diretamente pelo laravel ou criando dois servidores, um para o backend e um para o frontend.
 <br>
